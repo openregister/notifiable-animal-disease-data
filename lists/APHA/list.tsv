@@ -1,0 +1,47 @@
+KEY	FAO Agrovoc	USDA NAL	Disease	Species Affected	Last Reported	Close of Last Outbreak	OIE Listed	Start Date	End Date	VENDU Report Code
+AHS	c_34202	4871	African horse sickness	Horses	Never Reported		Yes			IDHR
+ASF	c_8649	4894	African swine fever	Pigs	Never Reported		Yes			SFR
+ANT	c_483	10060	Anthrax	Cattle	2015		Yes			ANR
+AUJ	c_710	13839	Aujeszky’s disease	Pigs and other mammals	1989		Yes	01/08/1979		AJR
+BR			Bat Rabies	Bats	2016		Yes			BR
+BTV	c_9342	18273	Bluetongue	Cattle, Sheep and Goats	2008?		Yes			BTR
+BSE	c_334458	18992	Bovine spongiform encephalopathy	Cattle	Present		Yes			RBSE
+BTB	c_12733	19006	Bovine tuberculosis	Cattle and Deer	Present		Yes			
+BAB	c_23901	1786	Brucellosis (Brucella abortus)	Cattle	2012		Yes			BAB
+BRU	c_34487	20129	Brucellosis (Brucella melitensis)	Sheep and Goats	Never Reported		Yes	1940		BRU
+CWD		25890	Chronic Wasting Disease	Deer	Never Reported		Yes			RCWD
+CSF	c_7556	26657	Classical swine fever	Pigs	2000		Yes			SFR
+CAg	c_16705		Contagious agalactia	Sheep and Goats	Never Reported * 2014 was an imported case on effect on country freedom		Yes			CAgR
+CBPP	c_16706	15193	Contagious bov. pleuropneumonia	Cattle	1898		Yes			CBPPR
+CEM	c_16408	15161	Contagious equine metritis	Horses	2012		Yes			IDHR
+DOUR	c_10444	34435	Dourine	Horses	Never Reported		Yes			IDHR
+EHD		37640	Epizootic haemorrhagic disease	Deer	Never Reported		Yes			EHVDR
+Elymph	c_12289	50917	Epizootic lymphangitis	Horses	1906		No			IDHR
+WEE		37695	Encephalomyelitis (West.)	Horses	Never Reported		Yes			IDHR
+EBvL	c_1039	18963	Enzootic bovine leukosis	Cattle	1996		Yes			EBvL
+EEE	c_10594?	35170	Equine encephalomyelitis (Eastern)	Horses	Never Reported		Yes			IDHR
+EIA	c_2630	79540	Equine infectious anaemia	Horses	2012		Yes			IDHR
+EVA	c_16729	12450	Equine viral arteritis	Horses	2012		Yes	1/8/1995		EVA
+FMD	c_3033	40752	Foot and mouth disease	Cattle, sheep, pigs and other cloven hoofed animals	2007		Yes			VDR
+GLAND	c_16740	15164	Glanders	Horses	1928		Yes			IDHR
+HPAI			Highly path. avian influenza	Poultry	Present		Yes			DPR
+LPAI			Low path. avian influenza	Poultry	2016		Yes			DPR
+LSD	c_16775	23110	Lumpy skin disease	Cattle	Never Reported		Yes			POX
+ND	c_5166	54788	Newcastle disease	Poultry	2006		Yes			DPR
+OE	c_16785	20134	Ovine epididymitis (B. ovis)	Goats	Never Reported		Yes			BRU
+PED		29256	Porcine Epidemic Diarrhoea	Pigs	2002		No	18/12/2015		PED
+PMV			Pigeon paramyxovirus	Pigeons	Present		No			PMV
+PPR	c_16789	57558	Peste des petits ruminants	Sheep and Goats	Never Reported		Yes			POX
+RAB	c_6416	50959	Rabies	Dogs and other mammals	1970		Yes			Rabies
+RVF	c_64463	16553	Rift Valley fever	Cattle, Sheep and Goats	Never Reported		Yes			RVFR
+RIND	c_6605	53457	Rinderpest	Cattle	1877		Yes			
+SP	c_1284	22056	Sheep pox 	Sheep	1866		Yes			POX
+SSCAB		60408	Sheep Scab	Sheep	Present		No			SSCABR
+GP	c_1284	22054	Goat Pox	Goats	1800's		Yes			POX
+SCRAP	c_24311	43353	Scrapie	Sheep and Goats	Present		Yes			RSCRAP
+SVD	c_16470	65295	Swine Vesicular Disease	Pigs	1982		No	15/12/1972		VDR
+TD	c_24301	144768	Teschen Disease	Pigs	Never Reported		Yes	1/8/1974		TESCH
+VEE		37694	Venezuelan equ.encephalomyelitis	Horses	Never Reported		Yes			IDHR
+VS	c_16826	66967	Vesicular Stomatitis	Cattle, Pigs and Horses	Never Reported		No			VDR
+WARBLE	c_5320	46719	Warble Fly	Cattle	1990		No	15/12/1982		WARBLE
+WNV		40422	West Nile Fever	Horses	Never Reported		Yes			IHDR

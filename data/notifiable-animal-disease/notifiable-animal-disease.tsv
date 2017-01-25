@@ -1,0 +1,47 @@
+notifiable-animal-disease	animal-disease-name	notifiable-animal-disease-report-code	start-date	end-date
+AHS	African horse sickness	IDHR	Never Reported	
+ANT	Anthrax	ANR	2015	
+ASF	African swine fever	SFR	Never Reported	
+AUJ	Aujeszky’s disease	AJR	1989	
+BAB	Brucellosis (Brucella abortus)	BAB	2012	
+BR	Bat Rabies	BR	2016	
+BRU	Brucellosis (Brucella melitensis)	BRU	Never Reported	
+BSE	Bovine spongiform encephalopathy	RBSE	Present	
+BTB	Bovine tuberculosis		Present	
+BTV	Bluetongue	BTR	2008	
+CAg	Contagious agalactia	CAgR	Never Reported	
+CBPP	Contagious bov. pleuropneumonia	CBPPR	1898	
+CEM	Contagious equine metritis	IDHR	2012	
+CSF	Classical swine fever	SFR	2000	
+CWD	Chronic Wasting Disease	RCWD	Never Reported	
+DOUR	Dourine	IDHR	Never Reported	
+EBvL	Enzootic bovine leukosis	EBvL	1996	
+EEE	Equine encephalomyelitis (Eastern)	IDHR	Never Reported	
+EHD	Epizootic haemorrhagic disease	EHVDR	Never Reported	
+EIA	Equine infectious anaemia	IDHR	2012	
+Elymph	Epizootic lymphangitis	IDHR	1906	
+EVA	Equine viral arteritis	EVA	2012	
+FMD	Foot and mouth disease	VDR	2007	
+GLAND	Glanders	IDHR	1928	
+GP	Goat Pox	POX	1800's	
+HPAI	Highly path. avian influenza	DPR	Present	
+LPAI	Low path. avian influenza	DPR	2016	
+LSD	Lumpy skin disease	POX	Never Reported	
+ND	Newcastle disease	DPR	2006	
+OE	Ovine epididymitis (B. ovis)	BRU	Never Reported	
+PED	Porcine Epidemic Diarrhoea	PED	2002	
+PMV	Pigeon paramyxovirus	PMV	Present	
+PPR	Peste des petits ruminants	POX	Never Reported	
+RAB	Rabies	Rabies	1970	
+RIND	Rinderpest		1877	
+RVF	Rift Valley fever	RVFR	Never Reported	
+SCRAP	Scrapie	RSCRAP	Present	
+SP	Sheep pox 	POX	1866	
+SSCAB	Sheep Scab	SSCABR	Present	
+SVD	Swine Vesicular Disease	VDR	1982	
+TD	Teschen Disease	TESCH	Never Reported	
+VEE	Venezuelan equ.encephalomyelitis	IDHR	Never Reported	
+VS	Vesicular Stomatitis	VDR	Never Reported	
+WARBLE	Warble Fly	WARBLE	1990	
+WEE	Encephalomyelitis (West.)	IDHR	Never Reported	
+WNV	West Nile Fever	IHDR	Never Reported	
