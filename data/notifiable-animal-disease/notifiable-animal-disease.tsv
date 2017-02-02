@@ -1,4 +1,4 @@
-notifiable-animal-disease	animal-disease-name	notifiable-animal-disease-report-code	start-date	end-date
+notifiable-animal-disease	name	notifiable-animal-disease-report-code	start-date	end-date
 AHS	African horse sickness	IDHR	Never Reported	
 ANT	Anthrax	ANR	2015	
 ASF	African swine fever	SFR	Never Reported	
