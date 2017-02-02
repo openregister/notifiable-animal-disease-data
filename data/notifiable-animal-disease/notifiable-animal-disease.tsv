@@ -1,47 +1,1 @@
-notifiable-animal-disease	name	notifiable-animal-disease-report-code	start-date	end-date
-AHS	African horse sickness	IDHR	Never Reported	
-ANT	Anthrax	ANR	2015	
-ASF	African swine fever	SFR	Never Reported	
-AUJ	Aujeszkyâ€™s disease	AJR	1989	
-BAB	Brucellosis (Brucella abortus)	BAB	2012	
-BR	Bat Rabies	BR	2016	
-BRU	Brucellosis (Brucella melitensis)	BRU	Never Reported	
-BSE	Bovine spongiform encephalopathy	RBSE	Present	
-BTB	Bovine tuberculosis		Present	
-BTV	Bluetongue	BTR	2008	
-CAg	Contagious agalactia	CAgR	Never Reported	
-CBPP	Contagious bov. pleuropneumonia	CBPPR	1898	
-CEM	Contagious equine metritis	IDHR	2012	
-CSF	Classical swine fever	SFR	2000	
-CWD	Chronic Wasting Disease	RCWD	Never Reported	
-DOUR	Dourine	IDHR	Never Reported	
-EBvL	Enzootic bovine leukosis	EBvL	1996	
-EEE	Equine encephalomyelitis (Eastern)	IDHR	Never Reported	
-EHD	Epizootic haemorrhagic disease	EHVDR	Never Reported	
-EIA	Equine infectious anaemia	IDHR	2012	
-Elymph	Epizootic lymphangitis	IDHR	1906	
-EVA	Equine viral arteritis	EVA	2012	
-FMD	Foot and mouth disease	VDR	2007	
-GLAND	Glanders	IDHR	1928	
-GP	Goat Pox	POX	1800's	
-HPAI	Highly path. avian influenza	DPR	Present	
-LPAI	Low path. avian influenza	DPR	2016	
-LSD	Lumpy skin disease	POX	Never Reported	
-ND	Newcastle disease	DPR	2006	
-OE	Ovine epididymitis (B. ovis)	BRU	Never Reported	
-PED	Porcine Epidemic Diarrhoea	PED	2002	
-PMV	Pigeon paramyxovirus	PMV	Present	
-PPR	Peste des petits ruminants	POX	Never Reported	
-RAB	Rabies	Rabies	1970	
-RIND	Rinderpest		1877	
-RVF	Rift Valley fever	RVFR	Never Reported	
-SCRAP	Scrapie	RSCRAP	Present	
-SP	Sheep pox 	POX	1866	
-SSCAB	Sheep Scab	SSCABR	Present	
-SVD	Swine Vesicular Disease	VDR	1982	
-TD	Teschen Disease	TESCH	Never Reported	
-VEE	Venezuelan equ.encephalomyelitis	IDHR	Never Reported	
-VS	Vesicular Stomatitis	VDR	Never Reported	
-WARBLE	Warble Fly	WARBLE	1990	
-WEE	Encephalomyelitis (West.)	IDHR	Never Reported	
-WNV	West Nile Fever	IHDR	Never Reported	
+notifiable-animal-disease	name	notifiable-locations	reportable-locations	notifiable-animal-disease-investigation-category	start-date	end-dateAHS	African horse sickness	uk:ENG;uk:SCT;uk:WLS		IDHR		ANTHRAX	Anthrax	uk:ENG;uk:SCT;uk:WLS		ANR		ASF	African swine fever	uk:ENG;uk:SCT;uk:WLS		SFR		AD	AujeszkyÕs disease	uk:ENG;uk:SCT;uk:WLS		AJR		BAB	Brucellosis (Brucella abortus)	uk:ENG;uk:SCT;uk:WLS		BAB		BR	Bat Rabies	uk:ENG;uk:SCT;uk:WLS		BR		BRU	Brucella of any genus		uk:ENG;uk:SCT;uk:WLS	BRU		BRUM	Brucellosis (Brucella melitensis)	uk:ENG;uk:SCT;uk:WLS		BRU		BSE	Bovine spongiform encephalopathy	uk:ENG;uk:SCT;uk:WLS		RBSE		BTB	Bovine tuberculosis	uk:ENG;uk:SCT;uk:WLS				BT	Bluetongue	uk:ENG;uk:SCT;uk:WLS		BTR		CAg	Contagious agalactia	uk:ENG;uk:SCT;uk:WLS		CAgR		CBPP	Contagious bov. pleuropneumonia	uk:ENG;uk:SCT;uk:WLS		CBPPR		CEMO	Contagious equine metritis	uk:ENG;uk:SCT;uk:WLS		IDHR		CSF	Classical swine fever	uk:ENG;uk:SCT;uk:WLS		SFR		CWD	Chronic Wasting Disease	uk:ENG;uk:SCT;uk:WLS		RCWD		DOURINE	Dourine	uk:ENG;uk:SCT;uk:WLS		IDHR		EBVL	Enzootic bovine leukosis	uk:ENG;uk:SCT;uk:WLS		EBovL		EEE	Equine encephalomyelitis (Eastern)	uk:ENG;uk:SCT;uk:WLS		IDHR		EHD	Epizootic haemorrhagic disease	uk:ENG;uk:SCT;uk:WLS		EHDVR		EIA	Equine infectious anaemia	uk:ENG;uk:SCT;uk:WLS		IDHR		EPIZLYMP	Epizootic lymphangitis	uk:ENG;uk:SCT;uk:WLS		IDHR		EVAD	Equine viral arteritis	uk:ENG;uk:SCT;uk:WLS		EVA		FMD	Foot and mouth disease	uk:ENG;uk:SCT;uk:WLS		FMD		GLANDERS	Glanders	uk:ENG;uk:SCT;uk:WLS		IDHR		GPOX	Goat Pox	uk:ENG;uk:SCT;uk:WLS		POX		HPAI	Highly path. avian influenza	uk:ENG;uk:SCT;uk:WLS		DPR		LPAI	Low path. avian influenza	uk:ENG;uk:SCT;uk:WLS		DPR		LSD	Lumpy skin disease	uk:ENG;uk:SCT;uk:WLS		POX		ND	Newcastle disease	uk:ENG;uk:SCT;uk:WLS		DPR		BRUO	Ovine epididymitis (B. ovis)	uk:ENG;uk:SCT;uk:WLS		BRU		PED	Porcine Epidemic Diarrhoea	uk:ENG;uk:SCT				PPMV	Pigeon paramyxovirus	uk:ENG;uk:SCT;uk:WLS		PMV		PPR	Peste des petits ruminants	uk:ENG;uk:SCT;uk:WLS		PPR		RBV	Rabies	uk:ENG;uk:SCT;uk:WLS		Rabies		RPEST	Rinderpest	uk:ENG;uk:SCT;uk:WLS		RPESTR		RVF	Rift Valley fever	uk:ENG;uk:SCT;uk:WLS		RVFR		SALM	Salmonella of any genus		uk:ENG;uk:SCT;uk:WLS	SALMR		SCRAP	Scrapie	uk:ENG;uk:SCT;uk:WLS		RSCRAP		SPOX	Sheep pox	uk:ENG;uk:SCT;uk:WLS		POX		SSCAB	Sheep Scab	uk:SCT		RSSCAB		SVD	Swine Vesicular Disease	uk:ENG;uk:SCT;uk:WLS		VDR		TESCHEN	Teschen Disease	uk:ENG;uk:SCT;uk:WLS		TESCH		VEE	Venezuelan equ.encephalomyelitis	uk:ENG;uk:SCT;uk:WLS		IDHR		VS	Vesicular Stomatitis	uk:ENG;uk:SCT;uk:WLS		IDHR		WARBLE	Warble Fly	uk:SCT		WARBLE		WEE	Encephalomyelitis (West.)	uk:ENG;uk:SCT;uk:WLS		IDHR		WNV	West Nile Fever	uk:ENG;uk:SCT;uk:WLS		IDHR		
