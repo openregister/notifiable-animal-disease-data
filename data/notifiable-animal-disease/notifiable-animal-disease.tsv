@@ -11,7 +11,7 @@ BSE	Bovine spongiform encephalopathy	uk:ENG;uk:SCT;uk:WLS		RBSE
 BTB	Bovine tuberculosis	uk:ENG;uk:SCT;uk:WLS				
 BT	Bluetongue	uk:ENG;uk:SCT;uk:WLS		BTR		
 CAg	Contagious agalactia	uk:ENG;uk:SCT;uk:WLS		CAgR		
-CBPP	Contagious bov. pleuropneumonia	uk:ENG;uk:SCT;uk:WLS		CBPPR		
+CBPP	Contagious bovine pleuropneumonia	uk:ENG;uk:SCT;uk:WLS		CBPPR		
 CEMO	Contagious equine metritis	uk:ENG;uk:SCT;uk:WLS		IDHR		
 CSF	Classical swine fever	uk:ENG;uk:SCT;uk:WLS		SFR		
 CWD	Chronic Wasting Disease	uk:ENG;uk:SCT;uk:WLS		RCWD		
@@ -25,12 +25,12 @@ EVAD	Equine viral arteritis	uk:ENG;uk:SCT;uk:WLS		EVA
 FMD	Foot and mouth disease	uk:ENG;uk:SCT;uk:WLS		FMD		
 GLANDERS	Glanders	uk:ENG;uk:SCT;uk:WLS		IDHR		
 GPOX	Goat Pox	uk:ENG;uk:SCT;uk:WLS		POX		
-HPAI	Highly path. avian influenza	uk:ENG;uk:SCT;uk:WLS		DPR		
+HPAI	Highly pathogenic avian influenza	uk:ENG;uk:SCT;uk:WLS		DPR		
 HPAI-NP	 infection with influenza A viruses of high pathogenicity in birds other than poultry including wild birds	uk:ENG;uk:SCT;uk:WLS        		DPR		
-LPAI	Low path. avian influenza	uk:ENG;uk:SCT;uk:WLS		DPR		
+LPAI	Low pathogenic avian influenza	uk:ENG;uk:SCT;uk:WLS		DPR		
 LSD	Lumpy skin disease	uk:ENG;uk:SCT;uk:WLS		POX		
 ND	Newcastle disease	uk:ENG;uk:SCT;uk:WLS		DPR		
-BRUO	Ovine epididymitis (B. ovis)	uk:ENG;uk:SCT;uk:WLS		BRU		
+BRUO	Ovine epididymitis (Brucella ovis)	uk:ENG;uk:SCT;uk:WLS		BRU		
 PED	Porcine Epidemic Diarrhoea	uk:ENG;uk:SCT				
 PPMV	Pigeon paramyxovirus	uk:ENG;uk:SCT;uk:WLS		PMV		
 PPR	Peste des petits ruminants	uk:ENG;uk:SCT;uk:WLS		PPR		
@@ -43,7 +43,7 @@ SPOX	Sheep pox	uk:ENG;uk:SCT;uk:WLS		POX
 SSCAB	Sheep Scab	uk:SCT		RSSCAB		
 SVD	Swine Vesicular Disease	uk:ENG;uk:SCT;uk:WLS		VDR		
 TESCHEN	Teschen Disease	uk:ENG;uk:SCT;uk:WLS		TESCH		
-VEE	Venezuelan equ.encephalomyelitis	uk:ENG;uk:SCT;uk:WLS		IDHR		
+VEE	Venezuelan equine encephalomyelitis	uk:ENG;uk:SCT;uk:WLS		IDHR		
 VS	Vesicular Stomatitis	uk:ENG;uk:SCT;uk:WLS		IDHR		
 WARBLE	Warble Fly	uk:SCT		WARBLE		
 WEE	Encephalomyelitis (West.)	uk:ENG;uk:SCT;uk:WLS		IDHR		
