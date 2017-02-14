@@ -1,6 +1,6 @@
 # Notifiable animal disease data
 
-Data for the prototype [notifiable-animal-disease register](http://notifiable-animal-disease.openregister.org), 
+Data for the alpha [notifiable-animal-disease register](http://notifiable-animal-disease.openregister.org),
 a list of notifiable animal diseases in Great Britain.
 
 
@@ -8,23 +8,23 @@ a list of notifiable animal diseases in Great Britain.
 
 ## [notifiable-animal-disease](data/notifiable-animal-disease/notifiable-animal-disease.tsv)
 
-http://notifiable-animal-disease.discovery.openregister.org
+http://notifiable-animal-disease.alpha.openregister.org
 
 ## [animal-disease-name](data/animal-disease-name/animal-disease-name.tsv)
 
-http://animal-disease-name.discovery.openregister.org
+http://animal-disease-name.alpha.openregister.org
 
 ## [notifiable-animal-disease-type](data/notifiable-animal-disease-report-code/notifiable-animal-disease-report-code.tsv)
 
-http://notifiable-animal-disease-report-code.discovery.openregister.org
+http://notifiable-animal-disease-report-code.alpha.openregister.org
 
 ## [start-date](data/start-date/start-date.tsv)
 
-http://start-date.discovery.openregister.org
+http://start-date.alpha.openregister.org
 
 ## [end-date](data/end-date/end-date.tsv)
 
-http://end-date.discovery.openregister.org
+http://end-date.alpha.openregister.org
 
 # Lists
 
