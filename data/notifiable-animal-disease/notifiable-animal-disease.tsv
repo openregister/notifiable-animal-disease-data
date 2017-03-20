@@ -5,7 +5,6 @@ ASF	African swine fever	uk:ENG;uk:SCT;uk:WLS		SFR
 AD	AujeszkyÍs disease	uk:ENG;uk:SCT;uk:WLS		AJR		
 BAB	Brucellosis (Brucella abortus)	uk:ENG;uk:SCT;uk:WLS		BAB		
 BR	Bat Rabies	uk:ENG;uk:SCT;uk:WLS		BR		
-BRU	Brucella of any genus		uk:ENG;uk:SCT;uk:WLS	BRU		
 BRUM	Brucellosis (Brucella melitensis)	uk:ENG;uk:SCT;uk:WLS		BRU		
 BSE	Bovine spongiform encephalopathy	uk:ENG;uk:SCT;uk:WLS		RBSE		
 BTB	Bovine tuberculosis	uk:ENG;uk:SCT;uk:WLS				
@@ -38,7 +37,6 @@ PPR	Peste des petits ruminants	uk:ENG;uk:SCT;uk:WLS		PPR
 RBV	Rabies	uk:ENG;uk:SCT;uk:WLS		Rabies		
 RPEST	Rinderpest	uk:ENG;uk:SCT;uk:WLS		RPESTR		
 RVF	Rift Valley fever	uk:ENG;uk:SCT;uk:WLS		RVFR		
-SALM	Salmonella of any genus		uk:ENG;uk:SCT;uk:WLS	SALMR		
 SCRAP	Scrapie	uk:ENG;uk:SCT;uk:WLS		RSCRAP		
 SPOX	Sheep pox	uk:ENG;uk:SCT;uk:WLS		POX		
 SSCAB	Sheep Scab	uk:SCT		RSSCAB		
