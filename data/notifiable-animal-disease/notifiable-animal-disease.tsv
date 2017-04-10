@@ -1,4 +1,4 @@
-notifiable-animal-disease	name	notifiable-locations	reportable-locations	notifiable-animal-disease-investigation-category	start-date	end-date
+notifiable-animal-disease	name	notifiable-locations	notifiable-animal-disease-investigation-category	start-date	end-date
 AHS	African horse sickness	England;Scotland;Wales		IDHR		
 ANTHRAX	Anthrax	England;Scotland;Wales		ANR		
 ASF	African swine fever	England;Scotland;Wales		SFR		
