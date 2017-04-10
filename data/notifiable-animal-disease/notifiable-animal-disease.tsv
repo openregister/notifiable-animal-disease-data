@@ -1,49 +1,49 @@
 notifiable-animal-disease	name	notifiable-locations	reportable-locations	notifiable-animal-disease-investigation-category	start-date	end-date
-AHS	African horse sickness	uk:ENG;uk:SCT;uk:WLS		IDHR		
-ANTHRAX	Anthrax	uk:ENG;uk:SCT;uk:WLS		ANR		
-ASF	African swine fever	uk:ENG;uk:SCT;uk:WLS		SFR		
-AD	AujeszkyÍs disease	uk:ENG;uk:SCT;uk:WLS		AJR		
-BAB	Brucellosis (Brucella abortus)	uk:ENG;uk:SCT;uk:WLS		BAB		
-BR	Bat Rabies	uk:ENG;uk:SCT;uk:WLS		BR		
-BRUM	Brucellosis (Brucella melitensis)	uk:ENG;uk:SCT;uk:WLS		BRU		
-BSE	Bovine spongiform encephalopathy	uk:ENG;uk:SCT;uk:WLS		RBSE		
-BTB	Bovine tuberculosis	uk:ENG;uk:SCT;uk:WLS				
-BT	Bluetongue	uk:ENG;uk:SCT;uk:WLS		BTR		
-CAg	Contagious agalactia	uk:ENG;uk:SCT;uk:WLS		CAgR		
-CBPP	Contagious bovine pleuropneumonia	uk:ENG;uk:SCT;uk:WLS		CBPPR		
-CEMO	Contagious equine metritis	uk:ENG;uk:SCT;uk:WLS		IDHR		
-CSF	Classical swine fever	uk:ENG;uk:SCT;uk:WLS		SFR		
-CWD	Chronic Wasting Disease	uk:ENG;uk:SCT;uk:WLS		RCWD		
-DOURINE	Dourine	uk:ENG;uk:SCT;uk:WLS		IDHR		
-EBVL	Enzootic bovine leukosis	uk:ENG;uk:SCT;uk:WLS		EBovL		
-EEE	Equine encephalomyelitis (Eastern)	uk:ENG;uk:SCT;uk:WLS		IDHR		
-EM	Echinococcus multilocularis (Infection with)	uk:ENG;uk:SCT;uk:WLS				
-EHD	Epizootic haemorrhagic disease	uk:ENG;uk:SCT;uk:WLS		EHDVR		
-EIA	Equine infectious anaemia	uk:ENG;uk:SCT;uk:WLS		IDHR		
-EPIZLYMP	Epizootic lymphangitis	uk:ENG;uk:SCT;uk:WLS		IDHR		
-EVAD	Equine viral arteritis	uk:ENG;uk:SCT;uk:WLS		EVA		
-FMD	Foot and mouth disease	uk:ENG;uk:SCT;uk:WLS		FMD		
-GLANDERS	Glanders	uk:ENG;uk:SCT;uk:WLS		IDHR		
-GPOX	Goat Pox	uk:ENG;uk:SCT;uk:WLS		POX		
-HPAI	Highly pathogenic avian influenza	uk:ENG;uk:SCT;uk:WLS		DPR		
-HPAI-NP	 infection with influenza A viruses of high pathogenicity in birds other than poultry including wild birds	uk:ENG;uk:SCT;uk:WLS        		DPR		
-LPAI	Low pathogenic avian influenza	uk:ENG;uk:SCT;uk:WLS		DPR		
-LSD	Lumpy skin disease	uk:ENG;uk:SCT;uk:WLS		POX		
-ND	Newcastle disease	uk:ENG;uk:SCT;uk:WLS		DPR		
-BRUO	Ovine epididymitis (Brucella ovis)	uk:ENG;uk:SCT;uk:WLS		BRU		
-PED	Porcine Epidemic Diarrhoea	uk:ENG;uk:SCT				
-PPMV	Pigeon paramyxovirus	uk:ENG;uk:SCT;uk:WLS		PMV		
-PPR	Peste des petits ruminants	uk:ENG;uk:SCT;uk:WLS		PPR		
-RBV	Rabies	uk:ENG;uk:SCT;uk:WLS		Rabies		
-RPEST	Rinderpest	uk:ENG;uk:SCT;uk:WLS		RPESTR		
-RVF	Rift Valley fever	uk:ENG;uk:SCT;uk:WLS		RVFR		
-SCRAP	Scrapie	uk:ENG;uk:SCT;uk:WLS		RSCRAP		
-SPOX	Sheep pox	uk:ENG;uk:SCT;uk:WLS		POX		
-SSCAB	Sheep Scab	uk:SCT		RSSCAB		
-SVD	Swine Vesicular Disease	uk:ENG;uk:SCT;uk:WLS		VDR		
-TESCHEN	Teschen Disease	uk:ENG;uk:SCT;uk:WLS		TESCH		
-VEE	Venezuelan equine encephalomyelitis	uk:ENG;uk:SCT;uk:WLS		IDHR		
-VS	Vesicular Stomatitis	uk:ENG;uk:SCT;uk:WLS		IDHR		
-WARBLE	Warble Fly	uk:SCT		WARBLE		
-WEE	Encephalomyelitis (West.)	uk:ENG;uk:SCT;uk:WLS		IDHR		
-WNV	West Nile Fever	uk:ENG;uk:SCT;uk:WLS		IDHR		
+AHS	African horse sickness	England;Scotland;Wales		IDHR		
+ANTHRAX	Anthrax	England;Scotland;Wales		ANR		
+ASF	African swine fever	England;Scotland;Wales		SFR		
+AD	AujeszkyÍs disease	England;Scotland;Wales		AJR		
+BAB	Brucellosis (Brucella abortus)	England;Scotland;Wales		BAB		
+BR	Bat Rabies	England;Scotland;Wales		BR		
+BRUM	Brucellosis (Brucella melitensis)	England;Scotland;Wales		BRU		
+BSE	Bovine spongiform encephalopathy	England;Scotland;Wales		RBSE		
+BTB	Bovine tuberculosis	England;Scotland;Wales				
+BT	Bluetongue	England;Scotland;Wales		BTR		
+CAg	Contagious agalactia	England;Scotland;Wales		CAgR		
+CBPP	Contagious bovine pleuropneumonia	England;Scotland;Wales		CBPPR		
+CEMO	Contagious equine metritis	England;Scotland;Wales		IDHR		
+CSF	Classical swine fever	England;Scotland;Wales		SFR		
+CWD	Chronic Wasting Disease	England;Scotland;Wales		RCWD		
+DOURINE	Dourine	England;Scotland;Wales		IDHR		
+EBVL	Enzootic bovine leukosis	England;Scotland;Wales		EBovL		
+EEE	Equine encephalomyelitis (Eastern)	England;Scotland;Wales		IDHR		
+EM	Echinococcus multilocularis (Infection with)	England;Scotland;Wales				
+EHD	Epizootic haemorrhagic disease	England;Scotland;Wales		EHDVR		
+EIA	Equine infectious anaemia	England;Scotland;Wales		IDHR		
+EPIZLYMP	Epizootic lymphangitis	England;Scotland;Wales		IDHR		
+EVAD	Equine viral arteritis	England;Scotland;Wales		EVA		
+FMD	Foot and mouth disease	England;Scotland;Wales		FMD		
+GLANDERS	Glanders	England;Scotland;Wales		IDHR		
+GPOX	Goat Pox	England;Scotland;Wales		POX		
+HPAI	Highly pathogenic avian influenza	England;Scotland;Wales		DPR		
+HPAI-NP	 infection with influenza A viruses of high pathogenicity in birds other than poultry including wild birds	England;Scotland;Wales        		DPR		
+LPAI	Low pathogenic avian influenza	England;Scotland;Wales		DPR		
+LSD	Lumpy skin disease	England;Scotland;Wales		POX		
+ND	Newcastle disease	England;Scotland;Wales		DPR		
+BRUO	Ovine epididymitis (Brucella ovis)	England;Scotland;Wales		BRU		
+PED	Porcine Epidemic Diarrhoea	England;Scotland				
+PPMV	Pigeon paramyxovirus	England;Scotland;Wales		PMV		
+PPR	Peste des petits ruminants	England;Scotland;Wales		PPR		
+RBV	Rabies	England;Scotland;Wales		Rabies		
+RPEST	Rinderpest	England;Scotland;Wales		RPESTR		
+RVF	Rift Valley fever	England;Scotland;Wales		RVFR		
+SCRAP	Scrapie	England;Scotland;Wales		RSCRAP		
+SPOX	Sheep pox	England;Scotland;Wales		POX		
+SSCAB	Sheep Scab	Scotland		RSSCAB		
+SVD	Swine Vesicular Disease	England;Scotland;Wales		VDR		
+TESCHEN	Teschen Disease	England;Scotland;Wales		TESCH		
+VEE	Venezuelan equine encephalomyelitis	England;Scotland;Wales		IDHR		
+VS	Vesicular Stomatitis	England;Scotland;Wales		IDHR		
+WARBLE	Warble Fly	Scotland		WARBLE		
+WEE	Encephalomyelitis (West.)	England;Scotland;Wales		IDHR		
+WNV	West Nile Fever	England;Scotland;Wales		IDHR		
