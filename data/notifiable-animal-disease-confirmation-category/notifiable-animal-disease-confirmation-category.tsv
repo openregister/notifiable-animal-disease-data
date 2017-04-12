@@ -1,0 +1,43 @@
+notifiable-animal-disease-confirmation-category	name	start-date	end-date
+AD	Aujeszky's disease		
+AHS	African horse sickness		
+AIV	Avian Influenza Virus		
+ASF	African swine fever		
+AX	Anthrax		
+BAB	Brucella abortus		
+BATRBV	Bat Rabies		
+BRUM	Brucella melitensis		
+BRUO	Brucella ovis		
+BSE	Bovine spongiform encephalopathy		
+BTD	Bluetongue Virus		
+CA	Contagious agalactia		
+CBPP	Contagious bovine pleuropneumonia		
+CEMO	Contagious equine metritis		
+CSF	Classical swine fever		
+CWD	Chronic Wasting Disease		
+DOURINE	Dourine		
+EBVL	Enzootic bovine leukosis		
+EQENCEPH	Equine Viral Encephalomyelitis		
+EHVD	Epizootic haemorrhagic disease		
+EIA	Equine infectious anaemia		
+ECH	Echinococcus multilocularis (Infection with)		
+EPIZLYMPH	Epizootic lymphangitis		
+EVAD	Equine viral arteritis		
+FMD	Foot and mouth disease		
+GLANDERS	Glanders		
+GPOX	Goat Pox		
+LSD	Lumpy skin disease		
+NDV	Newcastle disease		
+PMV	Pigeon paramyxovirus		
+PDPR	Peste des petits ruminants		
+RBV	Rabies		
+RPEST	Rinderpest		
+RIFT	Rift Valley fever		
+SCRAP	Scrapie		
+SPOX	Sheep pox		
+SSCAB	Sheep Scab		
+SVD	Swine Vesicular Disease		
+TESCHEN	Teschen Disease		
+VS	Vesicular Stomatitis		
+WARBLE	Warble Fly		
+WNV	West Nile Fever		
