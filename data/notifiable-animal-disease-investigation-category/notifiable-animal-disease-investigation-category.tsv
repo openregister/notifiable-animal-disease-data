@@ -2,7 +2,7 @@ notifiable-animal-disease-investigation-category	name	start-date	end-date
 IDHR	Infectious Diseases of Horses Report		
 ANR	Anthrax Report		
 SFR	Swine Fever Report		
-AJR	Aujesky Report		
+AJR	Aujeszky Report		
 BAB	Brucella Abortus		
 BR	Bat Rabies		
 BRU	Brucella other than Abortus Report		
@@ -13,7 +13,7 @@ CBPPR	Contagious bovine Pleuropneumonia Report
 RCWD	Chronic Wasting Disease Report		
 EBvL	Enzootic bovine leukosis		
 EHVDR	Epizootic haemorrhagic disease Report		
-EVA	Equine Viral Art		
+EVA	Equine Viral Arteritis		
 POX	Pox virus report		
 DPR	Disease of Poultry Report		
 PMV	Pigeon paramyxovirus Report		
