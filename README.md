@@ -1,7 +1,7 @@
 # Notifiable animal disease data
 
 Data for the alpha [notifiable-animal-disease register](http://notifiable-animal-disease.alpha.openregister.org),
-a list of notifiable animal diseases in Great Britain.
+a list of notifiable animal diseases in Great Britain
 
 
 # Data
