@@ -4,17 +4,17 @@ ANR	Anthrax Report
 SFR	Swine Fever Report		
 AJR	Aujeszky Report		
 BAB	Brucella Abortus		
-BR	Bat Rabies		
+BatR	Bat Rabies		
 BRU	Brucella other than Abortus Report		
 RBSE	Bovine spongiform encephalopathy Report		
 BTR	Bluetongue Report		
 CAgR	Contagious agalactia Report		
 CBPPR	Contagious bovine Pleuropneumonia Report		
 RCWD	Chronic Wasting Disease Report		
-EBvL	Enzootic bovine leukosis		
+EbovL	Enzootic bovine leukosis		
 EHVDR	Epizootic haemorrhagic disease Report		
 EVA	Equine Viral Arteritis		
-POX	Pox virus report		
+SPOXR	Sheep Pox Virus report		
 DPR	Disease of Poultry Report		
 PMVR	Pigeon paramyxovirus Report		
 Rabies	Rabies Report		
@@ -25,3 +25,5 @@ SSCABR	Sheep Scab Report
 TESCH	Teschen Disease		
 VDR	Vesticular Disease Report		
 WARBLE	Warble Fly Report		
+GPOXR	Sheep Pox virus report		
+LSDR	Lumpy Skin Disease report		
